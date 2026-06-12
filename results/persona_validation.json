@@ -1,0 +1,7 @@
+{
+  "n_personas": 7,
+  "ai_usability_agreement_within_1": 1.0,
+  "ai_usability_correlation": 0.062,
+  "rights_awareness_mae": 0.086,
+  "note": "Convergent validity between Layer-2 structural priors and Layer-3 LLM-persona coding. Gold-standard next step: validate against real workers interviewed via a field partner."
+}

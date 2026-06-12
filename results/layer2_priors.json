@@ -1,0 +1,51 @@
+{
+  "wage_violation_base_rate": {
+    "casual_daily": 0.62,
+    "casual_piecework": 0.66,
+    "short_term_contract": 0.45,
+    "regular_informal": 0.3,
+    "source": "Jan Sahas, 'Voices of the Invisible Citizens' (2020); ILO India Employment Report (ILO-IHD, 2024)",
+    "note": "Share of informal workers paid below the notified minimum wage for their sector. Casual/piece-rate work has the highest violation rates."
+  },
+  "wage_violation_modifiers": {
+    "no_written_contract": 1.4,
+    "migrant": 1.3,
+    "sc_st": 1.2,
+    "female": 1.15,
+    "source": "ILO India Employment Report 2024; Jan Sahas 2020; PLFS 2023-24",
+    "note": "Multiplicative risk modifiers applied on top of the base rate."
+  },
+  "rights_awareness_beta": {
+    "written": [
+      4,
+      2
+    ],
+    "verbal": [
+      2,
+      3
+    ],
+    "none": [
+      1,
+      4
+    ],
+    "education_bonus_per_level": 0.15,
+    "source": "ILO India Employment Report 2024 (contract <-> rights awareness); workers with written contracts ~3x more rights-aware.",
+    "note": "Beta(a,b) prior on a 0-1 rights-awareness score by contract type, nudged up by education."
+  },
+  "ai_usability": {
+    "education_score": {
+      "None": 1,
+      "1-4 yrs": 1,
+      "Primary (5)": 2,
+      "Middle (6-9)": 3,
+      "Secondary (10-11)": 4,
+      "Higher Sec (12-14)": 4,
+      "Graduate (15)": 5,
+      "Post-graduate (16+)": 5
+    },
+    "low_resource_language_penalty": 1,
+    "rural_penalty": 1,
+    "source": "GSMA Mobile Internet Connectivity Report 2024 (India); NFHS-5 digital-access gradients.",
+    "note": "1-5 score for how usable a text/voice AI tool is for the worker, from education minus low-resource-language and rural penalties."
+  }
+}

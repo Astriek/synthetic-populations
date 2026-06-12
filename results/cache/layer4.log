@@ -1,0 +1,26 @@
+Auditing 12 workers x 5 languages = 60 AI queries (cached).
+  worker 1/12 done (casual_daily, Karnataka)  [calls so far: 5]
+  worker 2/12 done (casual_daily, Uttar Pradesh)  [calls so far: 10]
+  worker 3/12 done (casual_daily, Assam)  [calls so far: 15]
+  worker 4/12 done (casual_daily, Chhattisgarh)  [calls so far: 20]
+  worker 5/12 done (casual_daily, Tripura)  [calls so far: 25]
+  worker 6/12 done (casual_daily, Karnataka)  [calls so far: 30]
+  worker 7/12 done (casual_daily, Uttar Pradesh)  [calls so far: 35]
+  worker 8/12 done (casual_daily, Andhra Pradesh)  [calls so far: 40]
+  worker 9/12 done (casual_piecework, Karnataka)  [calls so far: 45]
+  worker 10/12 done (regular_informal, Punjab)  [calls so far: 50]
+  worker 11/12 done (regular_informal, Delhi)  [calls so far: 55]
+  worker 12/12 done (regular_informal, West Bengal)  [calls so far: 60]
+
+============================================================
+THE FINDING — mean welfare-scheme recall by query language
+============================================================
+          mean_recall  mean_schemes_found  mean_answer_chars   n
+language                                                        
+English         0.801               5.167           1475.500  12
+Hindi           0.612               3.750           1240.000  12
+Bhojpuri        0.746               4.333           1279.750  12
+Bengali         0.565               3.667           1307.333  12
+Tamil           0.554               3.917           1265.250  12
+
+English recall = 0.80;  lowest = Tamil (0.55);  gap = 0.25

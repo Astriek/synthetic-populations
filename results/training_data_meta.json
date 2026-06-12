@@ -1,0 +1,40 @@
+{
+  "source": "IHDS-II individual file, ICPSR 36151 DS0001",
+  "n_rows": 45424,
+  "categorical_columns": [
+    "state",
+    "sex",
+    "marital_status",
+    "religion",
+    "social_group",
+    "urban_rural",
+    "education",
+    "employment_type",
+    "employer_type"
+  ],
+  "continuous_columns": [
+    "age",
+    "annual_wage_inr",
+    "work_hours_year"
+  ],
+  "informal_filter": "WS13 non-missing (wage workers); WS14 != Govt/PSU; age 18-65; WSEARN > 0",
+  "wage_mean_inr": 37766.90571063755,
+  "wage_median_inr": 25000.0,
+  "female_share": 0.31056269813314547,
+  "rural_share": 0.7092065868263473,
+  "employment_type_dist": {
+    "casual_daily": 0.7523,
+    "regular_informal": 0.136,
+    "casual_piecework": 0.0627,
+    "short_term_contract": 0.049
+  },
+  "social_group_dist": {
+    "OBC": 0.334,
+    "Dalit (SC)": 0.2771,
+    "Adivasi (ST)": 0.1191,
+    "Forward caste": 0.1149,
+    "Muslim": 0.1064,
+    "Brahmin": 0.0301,
+    "Christian/Sikh/Jain": 0.0184
+  }
+}

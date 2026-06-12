@@ -1,0 +1,16 @@
+Generating 8 worker personas (2 AI calls each)...
+  worker 1/8: prior_ai=1 persona_ai=2  [calls: 2]
+  worker 2/8: prior_ai=2 persona_ai=1  [calls: 4]
+  worker 3/8: prior_ai=1 persona_ai=1  [calls: 6]
+  worker 4/8: prior_ai=1 persona_ai=2  [calls: 8]
+  worker 5/8: prior_ai=3 persona_ai=2  [calls: 10]
+  worker 6: coder JSON parse failed, skipping
+  worker 7/8: prior_ai=1 persona_ai=2  [calls: 14]
+  worker 8/8: prior_ai=2 persona_ai=2  [calls: 16]
+
+============================================================
+CONVERGENT VALIDITY — structural priors vs persona coding
+============================================================
+AI-usability agreement (within +/-1 on 1-5): 100%
+AI-usability correlation:                    0.062
+Rights-awareness mean abs error (0-1):       0.086

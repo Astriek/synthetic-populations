@@ -1,0 +1,74 @@
+{
+  "n_workers": 50,
+  "languages": [
+    "English",
+    "Hindi",
+    "Bhojpuri",
+    "Bengali",
+    "Tamil"
+  ],
+  "mean_recall_by_language": {
+    "English": 0.75,
+    "Hindi": 0.558,
+    "Bhojpuri": 0.616,
+    "Bengali": 0.583,
+    "Tamil": 0.533
+  },
+  "ci95_by_language": {
+    "English": [
+      0.7,
+      0.799
+    ],
+    "Hindi": [
+      0.497,
+      0.625
+    ],
+    "Bhojpuri": [
+      0.552,
+      0.68
+    ],
+    "Bengali": [
+      0.52,
+      0.645
+    ],
+    "Tamil": [
+      0.483,
+      0.583
+    ]
+  },
+  "paired_wilcoxon_vs_english": {
+    "Hindi": {
+      "statistic": 126.5,
+      "p_value": 0.00013
+    },
+    "Bhojpuri": {
+      "statistic": 124.5,
+      "p_value": 0.00306
+    },
+    "Bengali": {
+      "statistic": 81.5,
+      "p_value": 0.00037
+    },
+    "Tamil": {
+      "statistic": 55.0,
+      "p_value": 1e-05
+    }
+  },
+  "mean_schemes_found_by_language": {
+    "English": 4.5,
+    "Hindi": 3.46,
+    "Bhojpuri": 3.8,
+    "Bengali": 3.84,
+    "Tamil": 3.6
+  },
+  "mean_answer_chars_by_language": {
+    "English": 1458.84,
+    "Hindi": 1297.64,
+    "Bhojpuri": 1343.28,
+    "Bengali": 1348.82,
+    "Tamil": 1281.14
+  },
+  "english_vs_lowest_gap": 0.217,
+  "lowest_language": "Tamil",
+  "total_ai_calls": 190
+}

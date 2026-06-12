@@ -1,0 +1,52 @@
+{
+  "fidelity_continuous": {
+    "age": {
+      "ks_stat": 0.1258,
+      "p_value": 0.0,
+      "real_mean": 37.0,
+      "synth_mean": 34.7,
+      "real_std": 12.0,
+      "synth_std": 11.8
+    },
+    "annual_wage_inr": {
+      "ks_stat": 0.1878,
+      "p_value": 0.0,
+      "real_mean": 37766.9,
+      "synth_mean": 49269.2,
+      "real_std": 40907.4,
+      "synth_std": 46834.0
+    },
+    "work_hours_year": {
+      "ks_stat": 0.1254,
+      "p_value": 0.0,
+      "real_mean": 1831.2,
+      "synth_mean": 1968.2,
+      "real_std": 897.0,
+      "synth_std": 892.4
+    }
+  },
+  "fidelity_categorical": {
+    "state": 0.1611,
+    "sex": 0.1059,
+    "marital_status": 0.0257,
+    "religion": 0.1014,
+    "social_group": 0.1534,
+    "urban_rural": 0.1635,
+    "education": 0.1129,
+    "employment_type": 0.0953,
+    "employer_type": 0.0986
+  },
+  "structure": {
+    "mean_abs_assoc_diff": 0.0439,
+    "real_female_wage_ratio": 0.399,
+    "synth_female_wage_ratio": 0.609
+  },
+  "privacy": {
+    "exact_duplicate_rate": 0.0
+  },
+  "mean_ks_stat": 0.1463,
+  "mean_tvd": 0.1131,
+  "n_real": 45424,
+  "n_synth": 10000,
+  "epochs": 300
+}

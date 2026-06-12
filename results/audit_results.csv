@@ -1,0 +1,251 @@
+worker_id,language,state,employment_type,monthly_income,correct_schemes,found_schemes,recall,n_correct,n_mentioned_total,answer_chars
+4761,English,Karnataka,casual_daily,3963,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.833,6,5,1471
+4761,Hindi,Karnataka,casual_daily,3963,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.667,6,4,1034
+4761,Bhojpuri,Karnataka,casual_daily,3963,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.667,6,5,1151
+4761,Bengali,Karnataka,casual_daily,3963,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.833,6,5,1413
+4761,Tamil,Karnataka,casual_daily,3963,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,5,1301
+195,English,Uttar Pradesh,casual_daily,6468,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.6,5,5,1530
+195,Hindi,Uttar Pradesh,casual_daily,6468,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY,0.4,5,3,1222
+195,Bhojpuri,Uttar Pradesh,casual_daily,6468,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,1.0,5,5,1328
+195,Bengali,Uttar Pradesh,casual_daily,6468,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.6,5,3,1296
+195,Tamil,Uttar Pradesh,casual_daily,6468,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY,0.4,5,4,1231
+7488,English,Assam,casual_daily,1585,e-Shram;Ayushman Bharat;BOCW;MGNREGA,Ayushman Bharat;MGNREGA,0.5,4,3,1096
+7488,Hindi,Assam,casual_daily,1585,e-Shram;Ayushman Bharat;BOCW;MGNREGA,Ayushman Bharat;BOCW;MGNREGA,0.75,4,4,1353
+7488,Bhojpuri,Assam,casual_daily,1585,e-Shram;Ayushman Bharat;BOCW;MGNREGA,Ayushman Bharat;MGNREGA,0.5,4,3,1260
+7488,Bengali,Assam,casual_daily,1585,e-Shram;Ayushman Bharat;BOCW;MGNREGA,Ayushman Bharat;MGNREGA,0.5,4,3,1213
+7488,Tamil,Assam,casual_daily,1585,e-Shram;Ayushman Bharat;BOCW;MGNREGA,Ayushman Bharat;BOCW;MGNREGA,0.75,4,5,1201
+9708,English,Chhattisgarh,casual_daily,126,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,4,1456
+9708,Hindi,Chhattisgarh,casual_daily,126,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY,0.333,6,2,1241
+9708,Bhojpuri,Chhattisgarh,casual_daily,126,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.667,6,4,1258
+9708,Bengali,Chhattisgarh,casual_daily,126,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.5,6,3,1499
+9708,Tamil,Chhattisgarh,casual_daily,126,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.5,6,4,1326
+1578,English,Tripura,casual_daily,5176,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.8,5,6,1468
+1578,Hindi,Tripura,casual_daily,5176,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.8,5,5,1208
+1578,Bhojpuri,Tripura,casual_daily,5176,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;PM-SYM;PMJJBY/PMSBY;BOCW,0.8,5,5,1263
+1578,Bengali,Tripura,casual_daily,5176,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.6,5,4,1293
+1578,Tamil,Tripura,casual_daily,5176,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.8,5,5,1546
+7780,English,Karnataka,casual_daily,883,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.714,7,5,1415
+7780,Hindi,Karnataka,casual_daily,883,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.714,7,5,1040
+7780,Bhojpuri,Karnataka,casual_daily,883,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.571,7,4,1408
+7780,Bengali,Karnataka,casual_daily,883,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.429,7,3,1166
+7780,Tamil,Karnataka,casual_daily,883,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;BOCW;MGNREGA,0.429,7,3,1341
+1153,English,Uttar Pradesh,casual_daily,9998,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,1.0,4,6,1586
+1153,Hindi,Uttar Pradesh,casual_daily,9998,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.75,4,4,1442
+1153,Bhojpuri,Uttar Pradesh,casual_daily,9998,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,5,1424
+1153,Bengali,Uttar Pradesh,casual_daily,9998,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.75,4,4,1269
+1153,Tamil,Uttar Pradesh,casual_daily,9998,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY,0.5,4,3,1089
+5372,English,Andhra Pradesh,casual_daily,1141,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.833,6,6,1619
+5372,Hindi,Andhra Pradesh,casual_daily,1141,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;PMJJBY/PMSBY;MGNREGA,0.5,6,3,1404
+5372,Bhojpuri,Andhra Pradesh,casual_daily,1141,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PMJJBY/PMSBY;BOCW;MGNREGA,0.5,6,3,1365
+5372,Bengali,Andhra Pradesh,casual_daily,1141,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;MGNREGA,0.333,6,3,1380
+5372,Tamil,Andhra Pradesh,casual_daily,1141,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.5,6,3,1423
+9799,English,Maharashtra,casual_daily,3512,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.75,4,5,1476
+9799,Hindi,Maharashtra,casual_daily,3512,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;BOCW,0.5,4,2,1121
+9799,Bhojpuri,Maharashtra,casual_daily,3512,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,PMJJBY/PMSBY,0.25,4,2,1328
+9799,Bengali,Maharashtra,casual_daily,3512,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,6,1345
+9799,Tamil,Maharashtra,casual_daily,3512,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.75,4,4,1174
+8390,English,Dadra & Nagar Haveli,casual_daily,3613,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.5,6,3,1172
+8390,Hindi,Dadra & Nagar Haveli,casual_daily,3613,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.667,6,4,1175
+8390,Bhojpuri,Dadra & Nagar Haveli,casual_daily,3613,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.667,6,5,1551
+8390,Bengali,Dadra & Nagar Haveli,casual_daily,3613,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PMJJBY/PMSBY;MGNREGA,0.5,6,3,1317
+8390,Tamil,Dadra & Nagar Haveli,casual_daily,3613,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.5,6,4,1272
+5577,English,Karnataka,casual_daily,6182,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,1.0,5,5,1582
+5577,Hindi,Karnataka,casual_daily,6182,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram,0.2,5,2,1345
+5577,Bhojpuri,Karnataka,casual_daily,6182,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PMJJBY/PMSBY;MGNREGA,0.6,5,4,1438
+5577,Bengali,Karnataka,casual_daily,6182,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.8,5,4,1341
+5577,Tamil,Karnataka,casual_daily,6182,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;MGNREGA,0.4,5,3,1346
+6282,English,Gujarat,casual_daily,676,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,4,1577
+6282,Hindi,Gujarat,casual_daily,676,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.5,6,3,1475
+6282,Bhojpuri,Gujarat,casual_daily,676,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.5,6,3,1429
+6282,Bengali,Gujarat,casual_daily,676,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,5,1377
+6282,Tamil,Gujarat,casual_daily,676,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.5,6,3,1240
+5993,English,Uttar Pradesh,casual_daily,636,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.571,7,4,1208
+5993,Hindi,Uttar Pradesh,casual_daily,636,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,PMJJBY/PMSBY;BOCW;MGNREGA,0.429,7,3,1320
+5993,Bhojpuri,Uttar Pradesh,casual_daily,636,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,PMJJBY/PMSBY;BOCW;MGNREGA,0.429,7,3,1401
+5993,Bengali,Uttar Pradesh,casual_daily,636,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,e-Shram;Ayushman Bharat;ONORC;MGNREGA,0.571,7,4,1516
+5993,Tamil,Uttar Pradesh,casual_daily,636,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;ONORC;MGNREGA,0.571,7,4,1414
+3959,English,Haryana,casual_daily,3779,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.571,7,4,1148
+3959,Hindi,Haryana,casual_daily,3779,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,PMJJBY/PMSBY,0.143,7,1,1236
+3959,Bhojpuri,Haryana,casual_daily,3779,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.429,7,3,1490
+3959,Bengali,Haryana,casual_daily,3779,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.714,7,5,1355
+3959,Tamil,Haryana,casual_daily,3779,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,0.714,7,5,1180
+8605,English,Chhattisgarh,casual_daily,4062,e-Shram;Ayushman Bharat;BOCW,e-Shram;Ayushman Bharat,0.667,3,4,1530
+8605,Hindi,Chhattisgarh,casual_daily,4062,e-Shram;Ayushman Bharat;BOCW,Ayushman Bharat,0.333,3,3,1145
+8605,Bhojpuri,Chhattisgarh,casual_daily,4062,e-Shram;Ayushman Bharat;BOCW,e-Shram;Ayushman Bharat,0.667,3,5,1304
+8605,Bengali,Chhattisgarh,casual_daily,4062,e-Shram;Ayushman Bharat;BOCW,Ayushman Bharat,0.333,3,4,1557
+8605,Tamil,Chhattisgarh,casual_daily,4062,e-Shram;Ayushman Bharat;BOCW,Ayushman Bharat,0.333,3,3,1092
+7729,English,Karnataka,casual_daily,2569,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,4,1283
+7729,Hindi,Karnataka,casual_daily,2569,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,4,1877
+7729,Bhojpuri,Karnataka,casual_daily,2569,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;PMJJBY/PMSBY;MGNREGA,0.5,6,4,1393
+7729,Bengali,Karnataka,casual_daily,2569,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.667,6,4,1328
+7729,Tamil,Karnataka,casual_daily,2569,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,4,1474
+6865,English,Madhya Pradesh,casual_daily,3570,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.857,7,6,1627
+6865,Hindi,Madhya Pradesh,casual_daily,3570,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.429,7,3,1242
+6865,Bhojpuri,Madhya Pradesh,casual_daily,3570,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.571,7,4,1522
+6865,Bengali,Madhya Pradesh,casual_daily,3570,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.429,7,3,1433
+6865,Tamil,Madhya Pradesh,casual_daily,3570,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.429,7,3,1378
+6524,English,Gujarat,casual_daily,1372,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY,0.5,4,2,1046
+6524,Hindi,Gujarat,casual_daily,1372,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.75,4,4,1569
+6524,Bhojpuri,Gujarat,casual_daily,1372,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.75,4,3,1515
+6524,Bengali,Gujarat,casual_daily,1372,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,PMJJBY/PMSBY;BOCW,0.5,4,3,1524
+6524,Tamil,Gujarat,casual_daily,1372,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,4,1434
+2469,English,Kerala,casual_daily,4231,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.833,6,5,1749
+2469,Hindi,Kerala,casual_daily,4231,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.667,6,4,1414
+2469,Bhojpuri,Kerala,casual_daily,4231,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY,0.333,6,2,1289
+2469,Bengali,Kerala,casual_daily,4231,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.833,6,5,1523
+2469,Tamil,Kerala,casual_daily,4231,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.5,6,3,1247
+3213,English,Rajasthan,casual_daily,2329,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.667,6,4,1509
+3213,Hindi,Rajasthan,casual_daily,2329,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;MGNREGA,0.333,6,2,1626
+3213,Bhojpuri,Rajasthan,casual_daily,2329,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,e-Shram;PMJJBY/PMSBY;MGNREGA,0.5,6,3,1271
+3213,Bengali,Rajasthan,casual_daily,2329,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,PMJJBY/PMSBY;ONORC;MGNREGA,0.5,6,4,1385
+3213,Tamil,Rajasthan,casual_daily,2329,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,0.833,6,5,1293
+85,English,Madhya Pradesh,casual_daily,997,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.667,6,5,1520
+85,Hindi,Madhya Pradesh,casual_daily,997,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.833,6,5,1564
+85,Bhojpuri,Madhya Pradesh,casual_daily,997,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.833,6,5,1284
+85,Bengali,Madhya Pradesh,casual_daily,997,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,4,1275
+85,Tamil,Madhya Pradesh,casual_daily,997,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat;BOCW,0.5,6,3,1260
+4190,English,Madhya Pradesh,casual_daily,358,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.6,5,4,1079
+4190,Hindi,Madhya Pradesh,casual_daily,358,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,1.0,5,5,1159
+4190,Bhojpuri,Madhya Pradesh,casual_daily,358,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PMJJBY/PMSBY;MGNREGA,0.4,5,2,1130
+4190,Bengali,Madhya Pradesh,casual_daily,358,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.8,5,5,1291
+4190,Tamil,Madhya Pradesh,casual_daily,358,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;MGNREGA,0.4,5,4,1139
+7132,English,West Bengal,casual_daily,4919,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.5,6,4,1616
+7132,Hindi,West Bengal,casual_daily,4919,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.5,6,3,1329
+7132,Bhojpuri,West Bengal,casual_daily,4919,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,Ayushman Bharat;PMJJBY/PMSBY,0.333,6,3,1319
+7132,Bengali,West Bengal,casual_daily,4919,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,Ayushman Bharat;PMJJBY/PMSBY,0.333,6,3,1284
+7132,Tamil,West Bengal,casual_daily,4919,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,Ayushman Bharat;PMJJBY/PMSBY;ONORC,0.5,6,4,1285
+260,English,Maharashtra,casual_daily,4168,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,e-Shram;Ayushman Bharat,0.333,6,2,1581
+260,Hindi,Maharashtra,casual_daily,4168,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,4,1232
+260,Bhojpuri,Maharashtra,casual_daily,4168,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.667,6,5,1472
+260,Bengali,Maharashtra,casual_daily,4168,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.833,6,5,1458
+260,Tamil,Maharashtra,casual_daily,4168,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;ONORC;MGNREGA,0.667,6,4,1237
+4636,English,Andhra Pradesh,casual_daily,1396,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;BOCW,0.4,5,3,981
+4636,Hindi,Andhra Pradesh,casual_daily,1396,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;BOCW,0.4,5,3,1129
+4636,Bhojpuri,Andhra Pradesh,casual_daily,1396,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.8,5,5,1313
+4636,Bengali,Andhra Pradesh,casual_daily,1396,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,PMJJBY/PMSBY,0.2,5,3,1364
+4636,Tamil,Andhra Pradesh,casual_daily,1396,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;BOCW,0.4,5,3,1305
+7809,English,Mizoram,casual_daily,3884,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.8,5,5,1538
+7809,Hindi,Mizoram,casual_daily,3884,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY,0.4,5,3,1222
+7809,Bhojpuri,Mizoram,casual_daily,3884,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,PM-SYM;PMJJBY/PMSBY,0.4,5,2,1284
+7809,Bengali,Mizoram,casual_daily,3884,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.8,5,4,1341
+7809,Tamil,Mizoram,casual_daily,3884,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY,0.4,5,3,1288
+5537,English,Kerala,casual_daily,9715,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,1.0,4,7,1476
+5537,Hindi,Kerala,casual_daily,9715,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.75,4,4,1633
+5537,Bhojpuri,Kerala,casual_daily,9715,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,5,1283
+5537,Bengali,Kerala,casual_daily,9715,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY,0.5,4,3,1360
+5537,Tamil,Kerala,casual_daily,9715,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.75,4,3,1560
+934,English,Chhattisgarh,casual_daily,6,Ayushman Bharat;BOCW;ONORC;MGNREGA,Ayushman Bharat;BOCW;MGNREGA,0.75,4,4,1385
+934,Hindi,Chhattisgarh,casual_daily,6,Ayushman Bharat;BOCW;ONORC;MGNREGA,Ayushman Bharat;MGNREGA,0.5,4,5,1167
+934,Bhojpuri,Chhattisgarh,casual_daily,6,Ayushman Bharat;BOCW;ONORC;MGNREGA,,0.0,4,2,1242
+934,Bengali,Chhattisgarh,casual_daily,6,Ayushman Bharat;BOCW;ONORC;MGNREGA,Ayushman Bharat;BOCW;ONORC,0.75,4,5,1303
+934,Tamil,Chhattisgarh,casual_daily,6,Ayushman Bharat;BOCW;ONORC;MGNREGA,Ayushman Bharat;BOCW;MGNREGA,0.75,4,5,1298
+2916,English,Uttar Pradesh,casual_daily,2703,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.833,6,5,1234
+2916,Hindi,Uttar Pradesh,casual_daily,2703,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.833,6,5,1141
+2916,Bhojpuri,Uttar Pradesh,casual_daily,2703,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PM-SYM;PMJJBY/PMSBY,0.5,6,3,1470
+2916,Bengali,Uttar Pradesh,casual_daily,2703,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;BOCW;MGNREGA,0.5,6,4,1499
+2916,Tamil,Uttar Pradesh,casual_daily,2703,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.833,6,5,1375
+8391,English,Tamil Nadu,casual_daily,918,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.833,6,5,1585
+8391,Hindi,Tamil Nadu,casual_daily,918,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;BOCW;MGNREGA,0.667,6,4,1515
+8391,Bhojpuri,Tamil Nadu,casual_daily,918,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,4,1300
+8391,Bengali,Tamil Nadu,casual_daily,918,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.5,6,3,1057
+8391,Tamil,Tamil Nadu,casual_daily,918,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,5,1377
+8995,English,Tamil Nadu,casual_daily,131,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.667,6,4,1614
+8995,Hindi,Tamil Nadu,casual_daily,131,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat,0.333,6,2,1205
+8995,Bhojpuri,Tamil Nadu,casual_daily,131,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.5,6,3,1302
+8995,Bengali,Tamil Nadu,casual_daily,131,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;PMJJBY/PMSBY;BOCW;MGNREGA,0.667,6,4,1278
+8995,Tamil,Tamil Nadu,casual_daily,131,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;BOCW,0.5,6,3,1357
+103,English,Tamil Nadu,casual_daily,3916,e-Shram;Ayushman Bharat;BOCW,e-Shram;BOCW,0.667,3,5,1581
+103,Hindi,Tamil Nadu,casual_daily,3916,e-Shram;Ayushman Bharat;BOCW,Ayushman Bharat,0.333,3,2,1081
+103,Bhojpuri,Tamil Nadu,casual_daily,3916,e-Shram;Ayushman Bharat;BOCW,e-Shram;Ayushman Bharat,0.667,3,4,1412
+103,Bengali,Tamil Nadu,casual_daily,3916,e-Shram;Ayushman Bharat;BOCW,Ayushman Bharat,0.333,3,4,1240
+103,Tamil,Tamil Nadu,casual_daily,3916,e-Shram;Ayushman Bharat;BOCW,Ayushman Bharat,0.333,3,4,1191
+213,English,Karnataka,casual_daily,272,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.833,6,5,1430
+213,Hindi,Karnataka,casual_daily,272,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.667,6,4,1522
+213,Bhojpuri,Karnataka,casual_daily,272,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.833,6,6,1249
+213,Bengali,Karnataka,casual_daily,272,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.667,6,4,1348
+213,Tamil,Karnataka,casual_daily,272,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.5,6,3,1395
+478,English,Karnataka,casual_piecework,5563,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,1.0,6,6,1494
+478,Hindi,Karnataka,casual_piecework,5563,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.5,6,3,1264
+478,Bhojpuri,Karnataka,casual_piecework,5563,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,0.833,6,5,1170
+478,Bengali,Karnataka,casual_piecework,5563,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.5,6,3,1237
+478,Tamil,Karnataka,casual_piecework,5563,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;BOCW;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.667,6,5,1128
+1020,English,Odisha,casual_piecework,6,e-Shram;Ayushman Bharat;BOCW;MGNREGA,Ayushman Bharat;BOCW,0.5,4,3,1510
+1020,Hindi,Odisha,casual_piecework,6,e-Shram;Ayushman Bharat;BOCW;MGNREGA,e-Shram;BOCW;MGNREGA,0.75,4,5,1106
+1020,Bhojpuri,Odisha,casual_piecework,6,e-Shram;Ayushman Bharat;BOCW;MGNREGA,Ayushman Bharat;BOCW;MGNREGA,0.75,4,4,1184
+1020,Bengali,Odisha,casual_piecework,6,e-Shram;Ayushman Bharat;BOCW;MGNREGA,MGNREGA,0.25,4,2,1204
+1020,Tamil,Odisha,casual_piecework,6,e-Shram;Ayushman Bharat;BOCW;MGNREGA,Ayushman Bharat;MGNREGA,0.5,4,4,1101
+3829,English,Delhi,casual_piecework,1633,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.6,5,5,1580
+3829,Hindi,Delhi,casual_piecework,1633,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,Ayushman Bharat;PMJJBY/PMSBY,0.4,5,2,1098
+3829,Bhojpuri,Delhi,casual_piecework,1633,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,Ayushman Bharat;PMJJBY/PMSBY;BOCW,0.6,5,4,1359
+3829,Bengali,Delhi,casual_piecework,1633,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,1.0,5,5,1610
+3829,Tamil,Delhi,casual_piecework,1633,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;BOCW;ONORC,Ayushman Bharat;PMJJBY/PMSBY;ONORC,0.6,5,3,1387
+5941,English,Punjab,regular_informal,4117,e-Shram;Ayushman Bharat;MGNREGA,Ayushman Bharat;MGNREGA,0.667,3,4,1489
+5941,Hindi,Punjab,regular_informal,4117,e-Shram;Ayushman Bharat;MGNREGA,Ayushman Bharat,0.333,3,4,1127
+5941,Bhojpuri,Punjab,regular_informal,4117,e-Shram;Ayushman Bharat;MGNREGA,e-Shram;Ayushman Bharat,0.667,3,4,1093
+5941,Bengali,Punjab,regular_informal,4117,e-Shram;Ayushman Bharat;MGNREGA,Ayushman Bharat,0.333,3,4,1283
+5941,Tamil,Punjab,regular_informal,4117,e-Shram;Ayushman Bharat;MGNREGA,MGNREGA,0.333,3,4,1288
+1133,English,Delhi,regular_informal,18321,e-Shram;PMJJBY/PMSBY,e-Shram;PMJJBY/PMSBY,1.0,2,6,1781
+1133,Hindi,Delhi,regular_informal,18321,e-Shram;PMJJBY/PMSBY,e-Shram;PMJJBY/PMSBY,1.0,2,5,1364
+1133,Bhojpuri,Delhi,regular_informal,18321,e-Shram;PMJJBY/PMSBY,e-Shram;PMJJBY/PMSBY,1.0,2,4,1309
+1133,Bengali,Delhi,regular_informal,18321,e-Shram;PMJJBY/PMSBY,e-Shram;PMJJBY/PMSBY,1.0,2,6,1463
+1133,Tamil,Delhi,regular_informal,18321,e-Shram;PMJJBY/PMSBY,PMJJBY/PMSBY,0.5,2,2,1232
+8595,English,West Bengal,regular_informal,2573,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,1.0,5,6,1301
+8595,Hindi,West Bengal,regular_informal,2573,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.6,5,3,1181
+8595,Bhojpuri,West Bengal,regular_informal,2573,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,1.0,5,5,1328
+8595,Bengali,West Bengal,regular_informal,2573,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,PMJJBY/PMSBY;MGNREGA,0.4,5,3,1176
+8595,Tamil,West Bengal,regular_informal,2573,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.6,5,4,1077
+5078,English,Dadra & Nagar Haveli,regular_informal,5511,e-Shram;Ayushman Bharat,e-Shram;Ayushman Bharat,1.0,2,6,1641
+5078,Hindi,Dadra & Nagar Haveli,regular_informal,5511,e-Shram;Ayushman Bharat,Ayushman Bharat,0.5,2,3,1105
+5078,Bhojpuri,Dadra & Nagar Haveli,regular_informal,5511,e-Shram;Ayushman Bharat,,0.0,2,3,1542
+5078,Bengali,Dadra & Nagar Haveli,regular_informal,5511,e-Shram;Ayushman Bharat,Ayushman Bharat,0.5,2,4,1422
+5078,Tamil,Dadra & Nagar Haveli,regular_informal,5511,e-Shram;Ayushman Bharat,Ayushman Bharat,0.5,2,2,1116
+7278,English,Delhi,regular_informal,6606,e-Shram;Ayushman Bharat,e-Shram;Ayushman Bharat,1.0,2,6,1539
+7278,Hindi,Delhi,regular_informal,6606,e-Shram;Ayushman Bharat,Ayushman Bharat,0.5,2,3,1050
+7278,Bhojpuri,Delhi,regular_informal,6606,e-Shram;Ayushman Bharat,Ayushman Bharat,0.5,2,4,1399
+7278,Bengali,Delhi,regular_informal,6606,e-Shram;Ayushman Bharat,e-Shram;Ayushman Bharat,1.0,2,5,1492
+7278,Tamil,Delhi,regular_informal,6606,e-Shram;Ayushman Bharat,,0.0,2,0,1024
+3011,English,Kerala,regular_informal,3731,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,1.0,4,6,1441
+3011,Hindi,Kerala,regular_informal,3731,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,3,1169
+3011,Bhojpuri,Kerala,regular_informal,3731,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat;PMJJBY/PMSBY,0.5,4,3,1348
+3011,Bengali,Kerala,regular_informal,3731,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat;PMJJBY/PMSBY,0.5,4,4,1334
+3011,Tamil,Kerala,regular_informal,3731,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,PMJJBY/PMSBY,0.25,4,2,1357
+19,English,Odisha,regular_informal,157,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat;PMJJBY/PMSBY,0.667,3,4,1525
+19,Hindi,Odisha,regular_informal,157,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat,0.333,3,2,1364
+19,Bhojpuri,Odisha,regular_informal,157,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,e-Shram;PMJJBY/PMSBY,0.667,3,3,1315
+19,Bengali,Odisha,regular_informal,157,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat,0.333,3,4,1704
+19,Tamil,Odisha,regular_informal,157,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat,0.333,3,3,1385
+7550,English,Jammu & Kashmir,regular_informal,6185,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat;PMJJBY/PMSBY,0.667,3,3,1541
+7550,Hindi,Jammu & Kashmir,regular_informal,6185,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat;PMJJBY/PMSBY,0.667,3,4,1084
+7550,Bhojpuri,Jammu & Kashmir,regular_informal,6185,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat;PMJJBY/PMSBY,0.667,3,4,1542
+7550,Bengali,Jammu & Kashmir,regular_informal,6185,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,1.0,3,3,1257
+7550,Tamil,Jammu & Kashmir,regular_informal,6185,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,e-Shram;Ayushman Bharat,0.667,3,4,1355
+2590,English,Uttar Pradesh,regular_informal,4511,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,3,1262
+2590,Hindi,Uttar Pradesh,regular_informal,4511,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,3,1724
+2590,Bhojpuri,Uttar Pradesh,regular_informal,4511,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,5,1285
+2590,Bengali,Uttar Pradesh,regular_informal,4511,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,4,1368
+2590,Tamil,Uttar Pradesh,regular_informal,4511,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat;PMJJBY/PMSBY,0.5,4,4,1141
+5179,English,Andhra Pradesh,regular_informal,4785,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,1.0,3,4,1459
+5179,Hindi,Andhra Pradesh,regular_informal,4785,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,1.0,3,5,1220
+5179,Bhojpuri,Andhra Pradesh,regular_informal,4785,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,1.0,3,4,1348
+5179,Bengali,Andhra Pradesh,regular_informal,4785,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat,0.333,3,2,1005
+5179,Tamil,Andhra Pradesh,regular_informal,4785,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,Ayushman Bharat;PMJJBY/PMSBY,0.667,3,4,1273
+5040,English,Delhi,regular_informal,2885,e-Shram;Ayushman Bharat,e-Shram;Ayushman Bharat,1.0,2,3,1522
+5040,Hindi,Delhi,regular_informal,2885,e-Shram;Ayushman Bharat,,0.0,2,2,1595
+5040,Bhojpuri,Delhi,regular_informal,2885,e-Shram;Ayushman Bharat,Ayushman Bharat,0.5,2,4,1232
+5040,Bengali,Delhi,regular_informal,2885,e-Shram;Ayushman Bharat,Ayushman Bharat,0.5,2,4,1428
+5040,Tamil,Delhi,regular_informal,2885,e-Shram;Ayushman Bharat,Ayushman Bharat,0.5,2,3,1213
+6236,English,Tamil Nadu,regular_informal,13678,e-Shram,e-Shram,1.0,1,3,1479
+6236,Hindi,Tamil Nadu,regular_informal,13678,e-Shram,,0.0,1,3,1237
+6236,Bhojpuri,Tamil Nadu,regular_informal,13678,e-Shram,e-Shram,1.0,1,3,1255
+6236,Bengali,Tamil Nadu,regular_informal,13678,e-Shram,,0.0,1,3,1198
+6236,Tamil,Tamil Nadu,regular_informal,13678,e-Shram,,0.0,1,3,1376
+3506,English,Karnataka,short_term_contract,584,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,4,1655
+3506,Hindi,Karnataka,short_term_contract,584,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,1.0,4,6,1392
+3506,Bhojpuri,Karnataka,short_term_contract,584,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.75,4,4,1272
+3506,Bengali,Karnataka,short_term_contract,584,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,1.0,4,5,1355
+3506,Tamil,Karnataka,short_term_contract,584,e-Shram;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,e-Shram;Ayushman Bharat;PMJJBY/PMSBY,0.75,4,3,1250
+2806,English,Karnataka,short_term_contract,3887,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY,0.8,5,5,1555
+2806,Hindi,Karnataka,short_term_contract,3887,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,PMJJBY/PMSBY;MGNREGA,0.4,5,3,1414
+2806,Bhojpuri,Karnataka,short_term_contract,3887,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,e-Shram;PM-SYM;PMJJBY/PMSBY,0.6,5,3,1735
+2806,Bengali,Karnataka,short_term_contract,3887,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,e-Shram;PMJJBY/PMSBY,0.4,5,2,1277
+2806,Tamil,Karnataka,short_term_contract,3887,e-Shram;PM-SYM;Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,Ayushman Bharat;PMJJBY/PMSBY;MGNREGA,0.6,5,4,1285

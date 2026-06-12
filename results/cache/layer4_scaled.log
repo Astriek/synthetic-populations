@@ -1,0 +1,72 @@
+Auditing 50 workers x 5 languages = 250 AI queries (cached).
+  worker 1/50 done (casual_daily, Karnataka)  [calls so far: 0]
+  worker 2/50 done (casual_daily, Uttar Pradesh)  [calls so far: 0]
+  worker 3/50 done (casual_daily, Assam)  [calls so far: 0]
+  worker 4/50 done (casual_daily, Chhattisgarh)  [calls so far: 0]
+  worker 5/50 done (casual_daily, Tripura)  [calls so far: 0]
+  worker 6/50 done (casual_daily, Karnataka)  [calls so far: 0]
+  worker 7/50 done (casual_daily, Uttar Pradesh)  [calls so far: 0]
+  worker 8/50 done (casual_daily, Andhra Pradesh)  [calls so far: 0]
+  worker 9/50 done (casual_daily, Maharashtra)  [calls so far: 5]
+  worker 10/50 done (casual_daily, Dadra & Nagar Haveli)  [calls so far: 10]
+  worker 11/50 done (casual_daily, Karnataka)  [calls so far: 15]
+  worker 12/50 done (casual_daily, Gujarat)  [calls so far: 20]
+  worker 13/50 done (casual_daily, Uttar Pradesh)  [calls so far: 25]
+  worker 14/50 done (casual_daily, Haryana)  [calls so far: 30]
+  worker 15/50 done (casual_daily, Chhattisgarh)  [calls so far: 35]
+  worker 16/50 done (casual_daily, Karnataka)  [calls so far: 40]
+  worker 17/50 done (casual_daily, Madhya Pradesh)  [calls so far: 45]
+  worker 18/50 done (casual_daily, Gujarat)  [calls so far: 50]
+  worker 19/50 done (casual_daily, Kerala)  [calls so far: 55]
+  worker 20/50 done (casual_daily, Rajasthan)  [calls so far: 60]
+  worker 21/50 done (casual_daily, Madhya Pradesh)  [calls so far: 65]
+  worker 22/50 done (casual_daily, Madhya Pradesh)  [calls so far: 70]
+  worker 23/50 done (casual_daily, West Bengal)  [calls so far: 75]
+  worker 24/50 done (casual_daily, Maharashtra)  [calls so far: 80]
+  worker 25/50 done (casual_daily, Andhra Pradesh)  [calls so far: 85]
+  worker 26/50 done (casual_daily, Mizoram)  [calls so far: 90]
+  worker 27/50 done (casual_daily, Kerala)  [calls so far: 95]
+  worker 28/50 done (casual_daily, Chhattisgarh)  [calls so far: 100]
+  worker 29/50 done (casual_daily, Uttar Pradesh)  [calls so far: 105]
+  worker 30/50 done (casual_daily, Tamil Nadu)  [calls so far: 110]
+  worker 31/50 done (casual_daily, Tamil Nadu)  [calls so far: 115]
+  worker 32/50 done (casual_daily, Tamil Nadu)  [calls so far: 120]
+  worker 33/50 done (casual_daily, Karnataka)  [calls so far: 125]
+  worker 34/50 done (casual_piecework, Karnataka)  [calls so far: 125]
+  worker 35/50 done (casual_piecework, Odisha)  [calls so far: 130]
+  worker 36/50 done (casual_piecework, Delhi)  [calls so far: 135]
+  worker 37/50 done (regular_informal, Punjab)  [calls so far: 135]
+  worker 38/50 done (regular_informal, Delhi)  [calls so far: 135]
+  worker 39/50 done (regular_informal, West Bengal)  [calls so far: 135]
+  worker 40/50 done (regular_informal, Dadra & Nagar Haveli)  [calls so far: 140]
+  worker 41/50 done (regular_informal, Delhi)  [calls so far: 145]
+  worker 42/50 done (regular_informal, Kerala)  [calls so far: 150]
+  worker 43/50 done (regular_informal, Odisha)  [calls so far: 155]
+  worker 44/50 done (regular_informal, Jammu & Kashmir)  [calls so far: 160]
+  worker 45/50 done (regular_informal, Uttar Pradesh)  [calls so far: 165]
+  worker 46/50 done (regular_informal, Andhra Pradesh)  [calls so far: 170]
+  worker 47/50 done (regular_informal, Delhi)  [calls so far: 175]
+  worker 48/50 done (regular_informal, Tamil Nadu)  [calls so far: 180]
+  worker 49/50 done (short_term_contract, Karnataka)  [calls so far: 185]
+  worker 50/50 done (short_term_contract, Karnataka)  [calls so far: 190]
+
+================================================================
+THE FINDING — mean welfare-scheme recall by query language
+================================================================
+          mean_recall  mean_schemes_found  mean_answer_chars   n
+language                                                        
+English         0.750                4.50            1458.84  50
+Hindi           0.558                3.46            1297.64  50
+Bhojpuri        0.616                3.80            1343.28  50
+Bengali         0.583                3.84            1348.82  50
+Tamil           0.533                3.60            1281.14  50
+
+Workers (complete across all languages): 50
+95% CIs and paired Wilcoxon vs English:
+  English   0.750  CI[0.70,0.80]
+  Hindi     0.558  CI[0.50,0.63]  p=0.00013
+  Bhojpuri  0.616  CI[0.55,0.68]  p=0.00306
+  Bengali   0.583  CI[0.52,0.65]  p=0.00037
+  Tamil     0.533  CI[0.48,0.58]  p=1e-05
+
+English = 0.75;  lowest = Tamil (0.53);  gap = 0.22
